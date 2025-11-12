@@ -1,7 +1,7 @@
 # VIETNAMESE SIGN LANGUAGE RECOGNITION
 A system for recognizing Vietnamese Sign Language using deep learning and computer vision techniques, tailored specifically for Vietnamese sign language.
 ## Demo
-https://github.com/user-attachments/assets/c143c7f2-9a7c-4033-9c41-a196322e6b5d
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -31,7 +31,8 @@ The Vietnamese Sign Language Recognition system leverages deep learning models a
 ## Installation
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/photienanh/Vietnamese-Sign-Language-Recognition
+git clone https://github.com/baamvu/quoxbau
+
 cd Vietnamese-Sign-Language-Recognition
 ```
 Alternatively, download the ZIP file from GitHub and extract it.
@@ -72,3 +73,4 @@ python create_data_augment.py
 ```bash
 streamlit run main.py
 ```
+
